@@ -1,3 +1,3 @@
 # LaslesVPN
 
-[Live Preview Here](https://testdevua.github.io/LaslesVPN/)
+[Live Preview Here](https://maverickdev-97.github.io/LaslesVPN/)
